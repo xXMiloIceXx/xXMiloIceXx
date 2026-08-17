@@ -21,9 +21,9 @@
 
 ### 👋 About Me
 
-Hi! I'm **Jia Sheng**, an AI graduate from Multimedia University with a deep passion for exploring how software and intelligent algorithms connect under the hood.
+Hi! I'm **Jason Ng**, an AI graduate from Multimedia University with a deep passion for exploring how software and intelligent algorithms connect under the hood.
 
-I love standing at the crossroads of **Artificial Intelligence** and **Backend Software Engineering**. While algorithms give systems intelligence, robust software architecture gives them life in the real world. That synergy is what drives my projects.
+I love standing at the crossroads of **Artificial Intelligence** and **Software Engineering**. While algorithms give systems intelligence, robust software architecture gives them life in the real world. That synergy is what drives my projects.
 
 * 🎓 **Academic Foundation**: First-Class Honours (CGPA: 3.74) in Artificial Intelligence from MMU.
 * 🧠 **AI & Spatial Computing**: Deep interest in Computer Vision (ResNet50, ConvNeXt) and AR Spatial Computing (Unity NavMesh dynamic pathfinding).
@@ -60,7 +60,7 @@ I love standing at the crossroads of **Artificial Intelligence** and **Backend S
 
 | Domain | Tech Stack & Frameworks |
 | :--- | :--- |
-| **Backend & Core** | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" /> |
+| **Backend & Core** | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,vue" /> |
 | **AI & Data** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" /> |
 | **Spatial & Real-Time**| <img src="https://skillicons.dev/icons?i=unity,cs" /> <img src="https://img.shields.io/badge/Pusher-WebSockets-68217A?style=flat-square" /> <img src="https://img.shields.io/badge/Agora-WebRTC-099CEC?style=flat-square" /> |
 | **Environment & Cloud**| <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,linux" /> |
@@ -130,10 +130,6 @@ I love standing at the crossroads of **Artificial Intelligence** and **Backend S
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xXMiloIceXx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xXMiloIceXx&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="98%" />
-ps://github-readme-streak-stats.herokuapp.com/?user=xXMiloIceXx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
 
 ---
 
